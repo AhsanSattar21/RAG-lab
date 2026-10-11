@@ -1,4 +1,0 @@
-streamlit>=1.36
-pypdf>=4.2
-scikit-learn>=1.4
-groq>=0.9
